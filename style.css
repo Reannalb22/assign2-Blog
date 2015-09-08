@@ -1,0 +1,106 @@
+#headpic {
+	width: 100%;
+	position: relative;
+}
+
+#circle {
+	position: absolute;
+	max-width: 10%;
+	border-radius: 50%;
+	web-kit-border-radius: 30%;
+	moz-border-radius: 30%;
+	margin-left: 20%;
+	bottom: -25%;
+	border: 5px solid white;
+	transform: translateY;
+}
+
+#font {
+	font-family: Arial;
+	font-size: 55px;
+}
+
+#blog {
+	font-size: 20px;
+}
+
+.container {
+	margin: auto;
+	max-width: 100%;
+	height: 1100px;
+}
+.column2 {
+	text-align: justify;
+	vertical-align: top;
+	display: inline-block;
+	width: 30%;
+	height: 1100px;
+	padding: 40px;
+}
+
+.column1 {
+	margin-top: 3%;
+	vertical-align: top;
+	display: inline-block;
+	width: 10%;
+	margin-left: 32%;
+	height: 1100px;
+}
+
+#search {
+	font-size: 25px;
+	opacity: 0.6;
+	margin-top: 20%;
+}
+
+#tiy {
+	font-family: Arial;
+	font-size: 25px;
+}
+
+#happening {
+	font-family: Arial;
+	opacity: 0.6;
+}
+
+#header {
+	position:relative;
+	max-width: 100%;
+}
+
+#follow {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	vertical-align: top;
+}
+
+#never {
+	border-style: solid;
+	margin: 0;
+}
+
+#rest {
+	border-style: solid;
+	
+	vertical-align: top;
+	display: inline-block;
+}
+
+#img {
+	width: 60px;
+	display: inline;
+	max-width: 100%;
+}
+
+#title {
+	display: inline;
+	text-transform: uppercase;
+}
+
+#button {
+	display: inline;
+	width: 50px;
+	height: 40px;
+	background-color: blue;
+}
